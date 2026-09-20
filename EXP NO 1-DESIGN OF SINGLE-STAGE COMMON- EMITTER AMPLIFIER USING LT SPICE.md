@@ -13,8 +13,24 @@
 
 ## circuit diagram
 
+<img width="1600" height="1070" alt="image" src="https://github.com/user-attachments/assets/65dbbf10-7da2-4adf-8fc7-26c20a21281f" />
+
+
 ## graph
+
+<img width="1600" height="1188" alt="image" src="https://github.com/user-attachments/assets/395a264f-cfba-4e53-8d77-57b2a4f2f254" />
+
 
 ## calculation
 
+<img width="1600" height="1276" alt="image" src="https://github.com/user-attachments/assets/9daca191-162e-4fda-8968-ba0e2d541f99" />
+
+
+## Mark Split-up:
+
+<img width="1600" height="1387" alt="image" src="https://github.com/user-attachments/assets/2e6436f7-71ce-436e-9226-e66af3b8cb24" />
+
+
 ## result
+
+<img width="1600" height="1188" alt="792a076f-9411-4c0e-8df2-0d04273b81f8" src="https://github.com/user-attachments/assets/134b3537-509c-49b1-9338-6966f393552e" />
