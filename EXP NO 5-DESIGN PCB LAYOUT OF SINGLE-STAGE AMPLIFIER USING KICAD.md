@@ -10,6 +10,18 @@
 
 ## Kicad circuit diagram
 
-## output waveform
+<img width="1584" height="1100" alt="3c048af6-676a-41d4-b8e9-31c8e6ad7748" src="https://github.com/user-attachments/assets/84c28809-27cb-43be-8b4a-f6dc273ce9ed" />
+
+## output waveform and PCB Layout:
+
+<img width="1584" height="1275" alt="b31ab269-1f0a-4d61-a002-d548c7c167b4" src="https://github.com/user-attachments/assets/5a66b32a-00b6-461c-afbf-39a6e3cdd818" />
+
+<img width="998" height="1600" alt="3e98af3d-3af6-4dd4-b362-ad15c9dd6000" src="https://github.com/user-attachments/assets/2d52e4f6-0147-4591-aa95-176febf73806" />
+
+## Mark Split-up
+
+<img width="1308" height="855" alt="701d19a9-4805-445a-ab52-e4c857e7d120" src="https://github.com/user-attachments/assets/6540f6bd-e9cd-4214-b0b2-ebb42b7a11e6" />
 
 ## result
+
+<img width="1500" height="730" alt="dcf453de-8b58-4169-84d1-54d8b353fb51" src="https://github.com/user-attachments/assets/f4f94c69-13a4-46ca-9ef3-47696adea458" />
