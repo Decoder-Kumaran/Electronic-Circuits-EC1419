@@ -7,10 +7,17 @@
 <img width="613" height="121" alt="image" src="https://github.com/user-attachments/assets/676c5397-3c7c-4985-b376-2d3dbd73b1d9" />
 
 
-## tinker cad circuit diagram
+## tinker cad circuit diagram and output simulation:
 
-## ripple factor calculation
+<img width="1555" height="1599" alt="image" src="https://github.com/user-attachments/assets/76712aae-cc56-48af-8135-8c1f2a06ba90" />
 
-## output graph
+<img width="1576" height="1589" alt="image" src="https://github.com/user-attachments/assets/958e4bcc-af21-43ff-a664-16875cf89b4d" />
+
+## Mark Split-up:
+
+<img width="1600" height="1379" alt="06e416c0-d28c-442e-8a1b-7a1758ccda40" src="https://github.com/user-attachments/assets/4582964a-2289-408f-baa0-7c41d158156e" />
+
 
 ## result
+
+<img width="1280" height="827" alt="3ea27ec6-0a9f-4947-ab55-b434d926fc87" src="https://github.com/user-attachments/assets/73f6779a-77ab-4c2b-bd08-c6ea5c67a272" />
