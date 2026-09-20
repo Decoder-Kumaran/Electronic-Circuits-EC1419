@@ -21,11 +21,22 @@
 
 ## LT spice circuit diagram
 
+<img width="1224" height="924" alt="12f805d7-6b57-4d41-a485-aa39e1dcb73a" src="https://github.com/user-attachments/assets/e99bcccc-428b-49f9-8707-8a627443eb76" />
+
 
 ## LT spice output graph
 
-## Tabulation
+<img width="1224" height="866" alt="a4410792-1a20-435c-944d-43651bf600ce" src="https://github.com/user-attachments/assets/d9a0f4ac-dd1b-4f15-9238-fad14b79a6f5" />
 
 ## calculation
 
+<img width="1511" height="1600" alt="17e211cf-fabe-4454-8a76-687850bb10f4" src="https://github.com/user-attachments/assets/816f68bf-4863-491e-ae3b-a1b99ed5a5f7" />
+
+
+## Mark Split-up
+
+<img width="1600" height="1291" alt="98d222bc-81bd-4e17-b82b-b50039fde828" src="https://github.com/user-attachments/assets/00537458-28ed-4c4e-96ee-ec3aef5f1b21" />
+
 ## result
+
+<img width="1600" height="729" alt="e5dddf07-5ff1-4620-b9d1-0c3a42c4a1cb" src="https://github.com/user-attachments/assets/191ca874-e58a-4d4b-a4c7-4f0512f37d08" />
