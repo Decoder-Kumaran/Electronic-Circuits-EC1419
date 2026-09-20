@@ -9,7 +9,13 @@
 
 
 ## ADS circuit diagram
+<img width="1280" height="812" alt="f8c609d3-b3c0-47d2-bf6f-09fd5f4a2c0c" src="https://github.com/user-attachments/assets/0fa181d5-7f5f-4074-a044-c6f6e1ae60c5" />
 
 ## output waveforms
+<img width="1280" height="687" alt="08ae24d4-5ab7-4b33-9ae6-fc8afb40c2b2" src="https://github.com/user-attachments/assets/fae8f471-299f-46cf-9e0c-2e0cbe6e08bc" />
+
+## Mark Split-up
+<img width="1544" height="1014" alt="6eb0287f-9705-43cc-a859-9367a84e8502" src="https://github.com/user-attachments/assets/b684d89e-f8e8-4c0a-883d-8b83a0a5951e" />
 
 ## result
+<img width="1544" height="764" alt="7a3484bc-22b8-4d5e-8d31-cb0ad095f165" src="https://github.com/user-attachments/assets/865e6203-91af-46ce-b9d5-bf7e9e7d3531" />
